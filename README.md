@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h1>Take a Look</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S7tCmNOFVqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=S7tCmNOFVqc"><h1>Take a Look</h1></a>
+
 
 
 
