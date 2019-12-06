@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<a href="https://www.youtube.com/watch?v=S7tCmNOFVqc"><h1>Take a Look</h1></a>
+<a href="https://www.youtube.com/watch?v=S7tCmNOFVqc" target="_blank"><h1>Take a Look</h1></a>
 
 
 
